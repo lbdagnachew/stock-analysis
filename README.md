@@ -8,6 +8,9 @@ Results:
 
 Based on my analysis below, Green-energy stocks had a positive yearly return in 2017 - only one green-energy stock (TERP)) had a negative yearly return. However, in 2018, the majority of stocks had negative returns. The DQ stock had almost 200% yearly return in 2017, but in 2018 the stock dropped and finished the year with -63%. I would recommend for Steve Parents to re-think their decision on investing on DQ Stocks as the results show a negative outlook. 
 
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/101952961/163751109-b91a120d-1392-4945-a496-a0e1d8c877d5.png)
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/101952961/163751128-5b82060e-8905-4198-970a-6703fdde649a.png)
 
 How do these pros and cons apply to refactoring the original VBA script?*
 
